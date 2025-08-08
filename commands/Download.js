@@ -1,3 +1,4 @@
+
 const { franceking } = require('../main');
 const { fetchAllPosts } = require('../france/Ig');
 const axios = require('axios');
